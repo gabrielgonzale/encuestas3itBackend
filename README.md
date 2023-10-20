@@ -39,7 +39,7 @@ Para el consumo de las API debe llamar
 /rest/encuestas                  obtiene todas las encuestas    
 
 ## Estructura del Proyecto
-
+ 
 proyecto/
 ├── src/
 │ ├── main/
